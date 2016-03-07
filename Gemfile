@@ -1,5 +1,9 @@
 source 'https://rubygems.org'
 
+gem "simple_form"
+gem "carrierwave"
+gem "mini_magick"
+gem "font-awesome-rails"
 gem "bootstrap-sass"
 gem "devise"
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
